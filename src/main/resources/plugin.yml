@@ -1,0 +1,7 @@
+name: HorsePluginTest
+version: ${project.version}
+main: horseplugintest.horseplugintest.HorsePluginTest
+description: HorsePlugin
+commands:
+  horseinventory:
+    usage: some usage
